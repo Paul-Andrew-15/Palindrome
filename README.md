@@ -53,7 +53,8 @@ namespace palindrome
 }
 ```
 ## Output:
-![](./o1.png)
+![image](https://github.com/Paul-Andrew-15/Palindrome/assets/94279791/7454b1d8-7637-43cd-b96f-e3fa9d8c3ae4)
+
 
 ![](./o2.png)
 
