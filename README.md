@@ -56,7 +56,8 @@ namespace palindrome
 ![image](https://github.com/Paul-Andrew-15/Palindrome/assets/94279791/7454b1d8-7637-43cd-b96f-e3fa9d8c3ae4)
 
 
-![](./o2.png)
+![image](https://github.com/Paul-Andrew-15/Palindrome/assets/94279791/f0c5812f-51eb-45a8-8bab-42b4eeb757f8)
+
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
